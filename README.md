@@ -1,7 +1,10 @@
 # Python-One-Day-Challenge
 The Optimized Exhibition Opening
 
-##### PATIL Kunal [MSc AIS, EPITA]
+### Author
+```
+PATIL Kunal [MSc AIS, EPITA]
+```
 
 ### Understanding the challenge: 
 ```
